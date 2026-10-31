@@ -1,4 +1,11 @@
 body {
-background-image: url("/images/background-image");
-background-color: #8a1d58;
+    background-image: url("/images/background-image");
+    background-color: #8a1d58;
+    font-family: 'Montserrat', Consolas, 'Courier New', monospace;
+    font-size: 18px;
+    line-height: 1.65;
+}
+
+h1, h2, h3 {
+    font-weight: 400;
 }
