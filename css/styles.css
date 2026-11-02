@@ -76,7 +76,7 @@ main{
 
 .lede{
     font-size: 20px;
-    color: #6b6560
+    color: whitesmoke;
 }
 
 .button{
@@ -108,7 +108,7 @@ main{
 
 .card img{
     width: 100%;
-    height: 230px;
+    height: 100%;
     object-fit: cover;
 }
 
@@ -118,11 +118,11 @@ main{
 
 .card p{
     font-size: 16px;
-    color:#6b6560;
+    color: whitesmoke;
 }
 
 .jump{
-    border-left:3px solid #40826d;
+    border-left:3px solid #8a1d58;
     padding-left: 18px;
     margin-bottom: 30px;
 }
@@ -144,10 +144,10 @@ main{
 .step .num{
     display: block;
     font-size: 30px;
-    color: #40826d
+    color: #8a1d58
 }
 
 .back{
     font-size: 14px;
-    color:#6b6560;
+    color:#8a1d58;
 }
