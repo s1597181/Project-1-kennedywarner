@@ -66,11 +66,6 @@ main{
     object-fit: cover;
 }
 
-h1{
-    font-size: 54px;
-    line-height: 1.05;
-}
-
 .eyebrow{
     font-size: 13px;
     letter-spacing: 0.18em;
