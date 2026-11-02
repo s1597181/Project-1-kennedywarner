@@ -30,12 +30,6 @@ p{
     padding: 16px 24px;
 }
 
-.site-nav a{
-    color: #8a1d58;
-    text-decoration: none;
-    font-size: 15px;
-}
-
 main{
     max-width:1120px;
     margin:0 auto;
