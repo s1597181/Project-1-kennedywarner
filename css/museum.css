@@ -6,12 +6,6 @@ body {
     line-height: 1.65;
 }
 
-.dm-serif-display-regular {
-  font-family: "DM Serif Display", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
 h1, h2, h3 {
     font-weight: 500px;
     font-family: "DM Serif Display", serif;
@@ -19,7 +13,7 @@ h1, h2, h3 {
 }
 
 p{
-    font-family: "DM Serif Display", serif;
+    font-family: 'Montserrat', Consolas, 'Courier New', monospace;
     color: whitesmoke;
 }
 
