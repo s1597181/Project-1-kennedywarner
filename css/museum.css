@@ -40,7 +40,7 @@ main{
 }
 
 .site-footer{
-     background-image: url("/images/Stripes.png");
+    background-image: url("/images/Stripes.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
