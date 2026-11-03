@@ -18,7 +18,9 @@ p{
 }
 
 .site-nav{
-    background: #8a1d58;
+    background-image: url("/images/Stripes.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .site-nav ul{
