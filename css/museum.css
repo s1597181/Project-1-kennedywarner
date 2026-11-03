@@ -122,31 +122,6 @@ main{
     color: whitesmoke;
 }
 
-.jump{
-    border-left:3px solid #8a1d58;
-    padding-left: 18px;
-    margin-bottom: 30px;
-}
-
-.jump li{
-    font-size: 16px;
-}
-
-.jump ol{
-    margin-left: 18px;
-}
-
-.step{
-    border-top: 1px solid whitesmoke;
-    padding-top: 26px;
-    margin-top: 26px;
-}
-
-.step .num{
-    display: block;
-    font-size: 30px;
-    color: #8a1d58
-}
 
 .back{
     font-size: 14px;
