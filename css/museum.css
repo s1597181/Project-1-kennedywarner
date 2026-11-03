@@ -1,6 +1,6 @@
 body {
     background-image: url("/images/background-image");
-    background-color: black;
+    background-color: #f2edc9;
     font-family: "DM Serif Display", serif;
     font-size: 18px;
     line-height: 1.65;
@@ -9,12 +9,12 @@ body {
 h1, h2, h3 {
     font-weight: 500px;
     font-family: "DM Serif Display", serif;
-    color: whitesmoke;
+    color: #58512d;
 }
 
 p{
     font-family: 'Montserrat', Consolas, 'Courier New', monospace;
-    color: whitesmoke;
+    color: #58512d;
 }
 
 .site-nav{
@@ -83,8 +83,8 @@ main{
 .button{
     display: inline-block;
     margin-top: 12px;
-    background:#8a1d58;
-    color: whitesmoke;
+    background:#f0be59;
+    color: #58512d;
     text-decoration: none;
     padding: 13px 22px;
     font-size: 15px;
