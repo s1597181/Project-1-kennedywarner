@@ -103,12 +103,12 @@ main{
 .cards{
     display:grid;
     grid-template:auto / 1fr 1fr 1fr;
-    gap: 28px;
+    gap: 20px;
     padding-bottom: 60px;
 }
 
 .card img{
-    width: 150%;
+    width: 125%;
     height: 500px;
     object-fit: cover;
 }
