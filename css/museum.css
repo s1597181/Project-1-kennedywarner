@@ -30,3 +30,125 @@ p{
     margin: 0 auto;
     padding: 16px 24px;
 }
+
+main{
+    max-width:1120px;
+    margin:0 auto;
+    padding:0 24px;
+}
+
+.site-footer{
+    background: #8a1d58;
+    color: whitesmoke;
+}
+
+.site-footer .inner{
+    display: grid;
+    grid-template: auto / 1fr 1fr;
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 34px 24px;
+}
+
+.site-footer .right{
+    text-align: right;
+}
+
+.hero{
+    display:grid;
+    grid-template:auto / 1fr 1fr;
+    gap: 28px;
+    padding: 54px 0;
+}
+
+.hero img{
+    width: 200%;
+    height: 380px;
+    object-fit: cover;
+}
+
+.eyebrow{
+    font-size: 13px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #40826d;
+    margin-bottom: 10px;
+}
+
+.lede{
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.button{
+    display: inline-block;
+    margin-top: 12px;
+    background:#8a1d58;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 13px 22px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.section{
+    border-top: 1px solid whitesmoke;
+    padding: 34px 0 24px;
+}
+
+.section-head{
+    max-width: 68ch;
+}
+
+.cards{
+    display:grid;
+    grid-template:auto / 1fr 1fr 1fr;
+    gap: 28px;
+    padding-bottom: 60px;
+}
+
+.card img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.card h3{
+    margin: 14px 0 6px;
+}
+
+.card p{
+    font-size: 16px;
+    color: whitesmoke;
+}
+
+.jump{
+    border-left:3px solid #8a1d58;
+    padding-left: 18px;
+    margin-bottom: 30px;
+}
+
+.jump li{
+    font-size: 16px;
+}
+
+.jump ol{
+    margin-left: 18px;
+}
+
+.step{
+    border-top: 1px solid whitesmoke;
+    padding-top: 26px;
+    margin-top: 26px;
+}
+
+.step .num{
+    display: block;
+    font-size: 30px;
+    color: #8a1d58
+}
+
+.back{
+    font-size: 14px;
+    color:#8a1d58;
+}
