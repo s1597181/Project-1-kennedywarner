@@ -1,0 +1,32 @@
+body {
+    background-image: url("/images/background-image");
+    background-color: black;
+    font-family: 'Montserrat', Consolas, 'Courier New', monospace;
+    font-size: 18px;
+    line-height: 1.65;
+}
+
+h1, h2, h3 {
+    font-weight: 500px;
+    font-family: 'Montserrat', Consolas, 'Courier New', monospace;
+    color: whitesmoke;
+}
+
+p{
+    font-family: 'Montserrat', Consolas, 'Courier New', monospace;
+    color: whitesmoke;
+}
+
+.site-nav{
+    background: #8a1d58;
+}
+
+.site-nav ul{
+    list-style: none;
+    display: grid;
+    grid-template: auto / auto auto auto auto auto;
+    gap: 34px;
+    width: max-content;
+    margin: 0 auto;
+    padding: 16px 24px;
+}
