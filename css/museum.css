@@ -69,13 +69,6 @@ main{
     object-fit: cover;
 }
 
-.eyebrow{
-    font-size: 13px;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    color: #40826d;
-    margin-bottom: 10px;
-}
 
 .lede{
     font-size: 20px;
