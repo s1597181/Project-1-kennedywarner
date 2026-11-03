@@ -19,7 +19,7 @@ p{
 
 .site-nav{
     background-image: url("/images/Stripes.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
 }
 
@@ -41,7 +41,7 @@ main{
 
 .site-footer{
     background-image: url("/images/Stripes.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
 }
 
