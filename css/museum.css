@@ -40,8 +40,9 @@ main{
 }
 
 .site-footer{
-    background: #8a1d58;
-    color: whitesmoke;
+     background-image: url("/images/Stripes.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .site-footer .inner{
